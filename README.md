@@ -64,14 +64,6 @@ hingga aplikasi mobile real-time.
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/faisaldjukiro/faisaldjukiro/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ## 📬 Hubungi Saya
 
 - 🌐 **Portfolio**: https://faisaldjukiro.github.io/portofolio/
