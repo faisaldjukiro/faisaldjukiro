@@ -5,14 +5,6 @@
 
   <br><br>
   <p><em>Junior Fullstack Developer yang antusias dalam pengembangan aplikasi web dan mobile. Berpengalaman membangun berbagai sistem informasi, aplikasi rumah sakit (SIMRS), hingga aplikasi mobile real-time.</em></p>
-  <br>
-
-  <!-- GitHub Animated Trophies -->
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=faisaldjukiro&theme=tokyonight&no-frame=true&no-bg=true" alt="faisaldjukiro's Trophies" />
-  </a>
-</p>
 </div>
 
 ---
