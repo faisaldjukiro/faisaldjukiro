@@ -1,7 +1,17 @@
-# Hi there, I'm Faisal Djukiro 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&width=500&lines=Junior+Fullstack+Developer;Web+%26+Mobile+Developer)
+<div align="center">
+  <h1>Hi there, I'm Faisal Djukiro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&width=500&lines=Junior+Fullstack+Developer;Web+%26+Mobile+Developer" alt="Typing SVG" />
 
-Junior Fullstack Developer yang antusias dalam pengembangan aplikasi web dan mobile. Berpengalaman membangun berbagai sistem informasi, aplikasi rumah sakit (SIMRS), hingga aplikasi mobile real-time.
+  <br><br>
+  <p><em>Junior Fullstack Developer yang antusias dalam pengembangan aplikasi web dan mobile. Berpengalaman membangun berbagai sistem informasi, aplikasi rumah sakit (SIMRS), hingga aplikasi mobile real-time.</em></p>
+  <br>
+
+  <!-- GitHub Animated Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=faisaldjukiro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
 ---
 
@@ -24,6 +34,8 @@ Junior Fullstack Developer yang antusias dalam pengembangan aplikasi web dan mob
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
