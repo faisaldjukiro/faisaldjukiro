@@ -39,9 +39,9 @@ Junior Fullstack Developer yang antusias dalam pengembangan aplikasi web dan mob
 
 ### 📊 Statistik GitHub
 
-![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisaldjukiro&show_icons=true&theme=tokyonight)
+![Faisal's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=faisaldjukiro&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisaldjukiro&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisaldjukiro&layout=compact&theme=tokyonight)
 
 ---
 
