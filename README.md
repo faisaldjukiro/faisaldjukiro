@@ -1,50 +1,206 @@
 <div align="center">
-  <h1>Hi there, I'm Faisal Djukiro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&width=500&lines=Junior+Fullstack+Developer;Web+%26+Mobile+Developer" alt="Typing SVG" />
 
-  <br><br>
-  <p><em>Junior Fullstack Developer yang antusias dalam pengembangan aplikasi web dan mobile. Berpengalaman membangun berbagai sistem informasi, aplikasi rumah sakit (SIMRS), hingga aplikasi mobile real-time.</em></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Faisal%20Djukiro&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Fullstack%20Developer%20|%20Web%20Developer%20|%20Mobile%20Developer&descAlignY=60"/>
+
+# Hi there, I'm Faisal Djukiro 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Junior+Fullstack+Developer;Laravel+Developer;Spring+Boot+Developer;Flutter+Developer;Android+Developer;Building+Hospital+Information+Systems;Always+Learning+New+Technology"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=faisaldjukiro&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 </div>
 
 ---
 
-### 🛠️ Keahlian & Teknologi (Tech Stack)
+# 🚀 About Me
 
-#### 🌐 Web Frontend & Backend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-#### 🚀 Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/codeigniter-%23EE4323.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+🎯 Junior Fullstack Developer from Indonesia 🇮🇩
 
-#### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+💻 Passionate about building:
 
-#### 📊 Database & Cloud Services
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+- 🌐 Web Applications
+- 📱 Mobile Applications
+- 🏥 Hospital Information Systems (SIMRS)
+- 🔥 REST API Development
+- ☁ Cloud & Backend Development
+
+🌱 Currently Learning
+
+- Flutter
+- Next.js
+- Spring Boot
+- PostgreSQL
+- Docker
+- DevOps
+
+⚡ Fun Fact
+
+> "Every expert was once a beginner."
+
+<br>
 
 ---
 
-### 📬 Hubungi Saya
-* 🌐 **Portfolio**: [faisaldjukiro.github.io/portofolio](https://faisaldjukiro.github.io/portofolio/)
-* 📧 **Email**: faisaldjukiro98@gmail.com
-* 💼 **LinkedIn**: [linkedin.com/in/faisaldjukiro](https://linkedin.com/in/faisaldjukiro)
+# 🛠 Tech Stack
+
+## 🌐 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,dart"/>
+
+</p>
+
+## 🚀 Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel,codeigniter,nextjs,vue,express,spring,flutter,bootstrap,tailwind"/>
+
+</p>
+
+## 🛢 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase"/>
+
+</p>
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,npm,nodejs,figma"/>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faisaldjukiro&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisaldjukiro&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=faisaldjukiro&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisaldjukiro&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=faisaldjukiro&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/faisaldjukiro/faisaldjukiro/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 💻 Coding Time
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=faisaldjukiro&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+✔ Laravel API
+✔ Spring Boot
+✔ Flutter
+✔ Android
+✔ Docker
+✔ PostgreSQL
+✔ SIMRS Development
+✔ Fingerprint Integration
+✔ Hospital Queue System
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/faisaldjukiro">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:faisaldjukiro98@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://faisaldjukiro.github.io/portofolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎵 Spotify (Optional)
+
+<!--
+https://spotify-github-profile.vercel.app/api/view
+-->
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer"/>
+
+</div>
